@@ -14,3 +14,13 @@ The goal of this repository is to consolidate theoretical knowledge into hands-o
 - Neural network architectures (MLP, CNN, RNN, LSTM)
 - Optimization techniques and loss functions
 - And more...
+  
+## Folder Structure
+
+This repository is organized into modules that reflect different aspects of deep learning theory:
+
+- `01_numpy/`: Introduction to NumPy – array operations, broadcasting, and matrix computations.
+- `02_mathematics/`: Mathematical foundations for deep learning, including:
+  - `2.1_calculus/`: Derivatives, gradients, chain rule, and backpropagation concepts.
+  - `2.2_linear_algebra/`: Matrix operations, vector spaces, eigenvalues/eigenvectors, and their applications in neural networks.
+  - `2.3_probabilities/`: Basic probability theory, distributions, and concepts used in probabilistic models and Bayesian learning.
